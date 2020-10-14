@@ -1,1 +1,0 @@
-obj-$(CONFIG_NUBIA_TOUCHSCREEN_HXCHIPSET) += hxchipset/
