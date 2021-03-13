@@ -2,8 +2,6 @@
  * nubia overwrite dts
  */
 
-
-#include "others.dtsi"
 #include "neo-power.dtsi"
 #include "touch.dtsi"
 #include "display.dtsi"
