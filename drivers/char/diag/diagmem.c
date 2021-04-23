@@ -11,6 +11,8 @@
  *
  */
 
+#pragma clang diagnostic ignored "-Wvoid-pointer-to-int-cast"
+
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/mempool.h>
