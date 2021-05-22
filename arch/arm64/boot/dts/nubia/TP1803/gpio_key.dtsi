@@ -24,7 +24,7 @@
 			label = "voice_key";
 			gpios = <&tlmm 24 GPIO_ACTIVE_LOW>;
 			linux,input-type = <1>;
-			linux,code = <KEY_CAMERA>;
+			linux,code = <689>;
 			debounce-interval = <15>;
 			gpio-key,wakeup;
 		};
